@@ -1,0 +1,73 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 50px;
+}
+
+.cadastrar{
+    color: var(--secondary);
+    background-color: var(--CTA0);
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.editar{
+    color: var(--primary);
+    width: 100%;
+}
+
+.registroMedico{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.informacoes p{
+    margin-bottom: 10px;
+}
+
+.informacoes{
+    margin-bottom: 30px;
+}
+
+.titulo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.editar{
+    display: flex;
+    justify-content: center;
+}
+
+.editar a{
+    color: var(--primary);
+    text-decoration: none;
+}
+
+
+
+@media(max-width: 1024px) {
+    img{
+        width: 450px;
+    }
+  }
+
+
+  @media(max-width: 768px) {
+    img{
+        width: 340px;
+    }
+  }
+  
+  @media(max-width: 900px) {
+    img{
+        display: none;
+    }
+  }
+

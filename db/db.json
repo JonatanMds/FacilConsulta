@@ -1,0 +1,98 @@
+{
+  "cadastro": {
+    "preco": "50",
+    "especialidade": "Cardiologia"
+  },
+  "valor": {
+    "especialidades": [
+      {
+        "id": 1,
+        "tipo": "Selecione a especialidade"
+      },
+      {
+        "id": 2,
+        "tipo": "Cardiologia"
+      },
+      {
+        "id": 3,
+        "tipo": "Dermatologia"
+      },
+      {
+        "id": 4,
+        "tipo": "Neurologia"
+      },
+      {
+        "id": 5,
+        "tipo": "Oftalmologia"
+      },
+      {
+        "id": 6,
+        "tipo": "Psiquiatria"
+      },
+      {
+        "id": 7,
+        "tipo": "Urologia"
+      }
+    ],
+    "cidades": [
+      {
+        "id": 1,
+        "tipo": "Selecione sua cidade"
+      },
+      {
+        "id": 2,
+        "tipo": "Paraná"
+      },
+      {
+        "id": 3,
+        "tipo": "Rio Grande do Sul"
+      },
+      {
+        "id": 4,
+        "tipo": "Santa Catarina"
+      }
+    ],
+    "estados": [
+      {
+        "id": 1,
+        "tipo": "Selecione seu estado"
+      },
+      {
+        "id": 2,
+        "tipo": "Londrina"
+      },
+      {
+        "id": 3,
+        "tipo": "Maringá"
+      },
+      {
+        "id": 4,
+        "tipo": "Pelotas"
+      },
+      {
+        "id": 5,
+        "tipo": "Porto Alegre"
+      },
+      {
+        "id": 6,
+        "tipo": "Florianópolis"
+      },
+      {
+        "id": 7,
+        "tipo": "Joinvile"
+      }
+    ],
+    "preco": "40"
+  },
+  "medico": {
+    "nome": "JONATAN MARQUES DE SOUSA DA SILVA PERES",
+    "cpf": "122.298.877-18",
+    "celular": "+55 (55) 55555-5555",
+    "cidade": "Rio Grande do Sul",
+    "estado": "Londrina"
+  },
+  "especialidadeMedica": {
+    "preco": "60",
+    "especialidade": "Cardiologia"
+  }
+}
